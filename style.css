@@ -1,0 +1,21 @@
+body {
+  
+border-radius: 20px;
+
+background: #e0e0e0;
+
+box-shadow:  30px 20px 60px #bebebe,
+
+             -20px -20px 80px #ffffff;
+
+
+
+}
+
+div {
+
+margin-top:10px;
+padding:8px;
+
+}
+          
